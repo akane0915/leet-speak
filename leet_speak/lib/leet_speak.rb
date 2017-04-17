@@ -22,6 +22,6 @@ class String
         leet_letters[0].replace("S")
       end
     end
-    leet_letters
+    leet_letters.join("")
   end
 end
